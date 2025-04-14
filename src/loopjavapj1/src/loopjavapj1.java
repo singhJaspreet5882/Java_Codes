@@ -24,10 +24,10 @@ public class loopjavapj1 {
 
         int i = 12;
         while (i < 11){
-            System.out.println("Fuck Off");
+            System.out.println("hello");
         }
         do {
-            System.out.println("Fuck Off");
+            System.out.println("jaasssss");
         }while (i < 11);
         // here while loop doesn't run because of false statement
         // do while lop runs atleast one time even if it has false statements
